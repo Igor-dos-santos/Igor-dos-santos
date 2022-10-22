@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Igor-dos-santos
-- 👀 I’m interested in emerging technologies and computer languages. 
-- 🌱 I’m currently coursing a Bachelor in Computer Science, just finished the fourth semester. 
-     I spend my free time learning new languages and researching emerging about technologie
-- 💞️ I’m looking to collaborate on front end development projects, I have some experience with HTML, CSS, JavaScript, PHP, MySQL, JAVA & Python.
+- 👀 Keen interest in Software Development, Networking and emerging technologies. Passionate about crypto and other blockchain utilities.
+- 📚 Final year student of BSc in Computer Science.
+- 🌱 Currently residing in Dublin / Ireland with full european work and residence permit.
+- 💞️ I spend my free time learning and researching about technology in general. Working on personal projects and my own music.
+- 👨‍💻 Java, Python, Ruby, HTML, CSS, JavaScript, PHP, MySQL, MongoDB are some of the languages I am most familiar with.
 - 📫 You can reach me on - a2sigor@gmail.com - or through my Linkedin profile --> https://www.linkedin.com/in/igor-dos-santos/
 
 <!---
