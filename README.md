@@ -14,7 +14,7 @@
 
 📫 You can reach me at a2sigor@gmail.com 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/igor-dos-santos/) 🌐
 
-🚀 **Check out my Portfolio**: [Igor's Portfolio](https://igor.d21hcx01htas13.amplifyapp.com/) 🔗
+🚀 **Check out my Portfolio**: [Igor's Portfolio](https://www.igords.com) 🔗
 
 <!---
 Igor-dos-santos/Igor-dos-santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
