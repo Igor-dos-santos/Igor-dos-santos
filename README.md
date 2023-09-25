@@ -10,9 +10,11 @@
 
 💞️ In my free time, I love learning and researching about technology in general. Working on personal projects and creating my own music. 🎶
 
-👨‍💻 Proficient in Java, Python, Ruby, HTML, CSS, JavaScript, PHP, MySQL, and MongoDB.
+👨‍💻 Proficient in Python, Ruby, Java, HTML, CSS, JavaScript, React JS, PHP, MySQL, and MongoDB.
 
-📫 You can reach me at a2sigor@gmail.com 📧 or through my Linkedin profile → https://www.linkedin.com/in/igor-dos-santos/ 🌐
+📫 You can reach me at a2sigor@gmail.com 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/igor-dos-santos/) 🌐
+
+🚀 **Check out my Portfolio**: [Igor's Portfolio](https://igor.d21hcx01htas13.amplifyapp.com/) 🔗
 
 <!---
 Igor-dos-santos/Igor-dos-santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
