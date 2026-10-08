@@ -1,22 +1,41 @@
-👋 Hi, I’m @Igor-dos-santos
+# Igor Alves Dos Santos
 
-👀 Keen interest in Software Development, Networking, and emerging technologies.
+### People leadership, AI operations and technical delivery
 
-🤖 Passionate about Artificial Intelligence and the future it holds. 🚀
+Based in Dublin, Ireland. Originally from Bahia, Brazil. I combine operations leadership with a BSc (Hons) in Computing from the National College of Ireland and hands-on experience in AI evaluation and technical workflows.
 
-📚 Final year student pursuing BSc in Computer Science.
+[Portfolio](https://igor-alves-portfolio.dsi-02.chatgpt.site) | [LinkedIn](https://www.linkedin.com/in/igor-dos-santos/) | [School Bot on YouTube](https://www.youtube.com/@school-bot) | [Email](mailto:a2sigor@gmail.com)
 
-🌱 Currently residing in Dublin, Ireland 🇮🇪 with full European work and residence permit.
+## What I do
 
-💞️ In my free time, I love learning and researching about technology in general. Working on personal projects and creating my own music. 🎶
+- Lead people and improve delivery, quality, capacity planning and escalation handling.
+- Build reporting and AI-assisted workflows that help teams turn data into action.
+- Work across AI evaluation, operational quality and technical collaboration.
+- Develop future leaders through coaching, clear expectations and practical guidance.
 
-👨‍💻 Proficient in Python, Ruby, Java, HTML, CSS, JavaScript, React JS, PHP, MySQL, and MongoDB.
+## Current work and learning
 
-📫 You can reach me at a2sigor@gmail.com 📧 or through my [LinkedIn profile](https://www.linkedin.com/in/igor-dos-santos/) 🌐
+**Senior Team Leader / Operations Lead at Covalen**, supporting operations for Meta. **Independent AI evaluation work with Mercor**, reviewing AI-generated outputs and providing structured feedback.
 
-🚀 **Check out my Portfolio**: [Igor's Portfolio](https://www.igords.com) 🔗
+My current learning focus is building and managing AI agents. I also experiment with AI video creation through School Bot.
 
-<!---
-Igor-dos-santos/Igor-dos-santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technical toolkit
+
+| Area | Experience and tools |
+| --- | --- |
+| Programming and web | JavaScript, TypeScript, Python, React, HTML, CSS |
+| Data and reporting | SQL/MySQL, Google Sheets, Tableau, Power BI |
+| Delivery workflows | Git, GitHub, GitLab, CI/CD monitoring and deployment validation |
+| Operations | People development, quality governance, root cause analysis and stakeholder communication |
+
+## My story
+
+I moved to Ireland at 20 and worked across restaurants and pubs before becoming a manager at 23. People leadership became one of my strongest skills. Studying Computing from 2019 to 2023 gave me the technical foundation to connect that experience with my interest in programming, cybersecurity and AI.
+
+Outside work, I enjoy travel, music and learning languages. I speak Portuguese, English and Spanish, and I am studying Italian and Japanese.
+
+## Connect
+
+I am interested in opportunities across AI operations, technical operations and delivery management where I can help teams grow and improve how they work.
+
+Explore my [professional portfolio](https://igor-alves-portfolio.dsi-02.chatgpt.site) for experience, project stories and my CV, or contact me at **a2sigor@gmail.com**.
