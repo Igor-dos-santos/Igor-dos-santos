@@ -34,6 +34,12 @@ I moved to Ireland at 20 and worked across restaurants and pubs before becoming 
 
 Outside work, I enjoy travel, music and learning languages. I speak Portuguese, English and Spanish, and I am studying Italian and Japanese.
 
+## Direction for 2027
+
+I am building toward Technical Program Management, Delivery Management and AI Operations leadership, combining people development with stronger technical delivery and automation skills. My goal is to take greater ownership of cross-functional programmes, build practical agent workflows and contribute to teams delivering reliable technology at scale.
+
+I am open to international opportunities and remote roles where my leadership and technical experience can make a measurable contribution. This profile describes my current experience and learning direction; projects in progress are not presented as completed work.
+
 ## Connect
 
 I am interested in opportunities across AI operations, technical operations and delivery management where I can help teams grow and improve how they work.
